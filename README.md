@@ -1,5 +1,5 @@
 
-#Aprendizaje por refuerzos
+# Aprendizaje por refuerzos
 
 Repositorio Materia Aprendizaje por refuerzos DiploDatos
 
